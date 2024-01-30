@@ -29,5 +29,5 @@ print("Now you can Apply this Generated Password where you want to!")
 # Important note:
 
 # If you want to work this Program in you Machine follow this instruction.
-# Step1: Open VS Code or Other Code Editor and Press CTRL+F5 and you can view your Generated Passoword.
+# Step1: Copy this Code and Open VS Code or Other Code Editor and Press CTRL+F5 and you can view your Generated Password.
 # If any problem you can ask me in GitHUB. Happy Cooding!
